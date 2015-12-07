@@ -1,3 +1,3 @@
 # Maturitní práce
 
-Maturitní práce zabývající se programováním mikroprocesoru ATmega 32 pro dálkové ovládání autíčka ze stavebnice Merkur.
+Maturitní práce zabývající se programováním mikrořadiče ATmega32 v jazyku symbolických adres (tj. "assembler") pro dálkové ovládání autíčka ze stavebnice Merkur.
